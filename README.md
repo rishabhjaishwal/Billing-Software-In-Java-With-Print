@@ -12,6 +12,6 @@ java version :1.8 or above
 java -jar "GSTBILLINGupd.jar" 
 ```
 
-##Developer:Rishabh Jaishwal
-###Software Version: V1.1<br>
-Email Id: rishabhjaishwal7@gmail.com<br>
+## Developer:Rishabh Jaishwal<br>
+### Software Version: V1.1<br>
+Email Id: >rishabhjaishwal7@gmail.com<br>
